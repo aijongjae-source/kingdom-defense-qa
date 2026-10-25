@@ -6,7 +6,7 @@
 
 [Windows QA ZIP 받기](https://github.com/aijongjae-source/kingdom-defense-qa/releases/download/qa-2026-10-25/KingdomDefense_QA_Windows_x64.zip) · [릴리스 페이지](https://github.com/aijongjae-source/kingdom-defense-qa/releases/tag/qa-2026-10-25)
 
-비공개이므로 이 저장소에 접근 가능한 GitHub 계정으로 로그인해야 합니다.
+로그인 없이 누구나 다운로드할 수 있습니다. ZIP 안의 ‘비공개’ 문구는 최초 전달 당시 안내이며 현재 다운로드에는 계정이 필요하지 않습니다.
 
 ## 실행
 
